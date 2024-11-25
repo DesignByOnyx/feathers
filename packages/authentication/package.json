@@ -56,14 +56,14 @@
   "devDependencies": {
     "@types/debug": "^4.1.12",
     "@types/lodash": "^4.17.13",
-    "@types/mocha": "^10.0.9",
-    "@types/node": "^22.9.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.9.3",
     "@types/uuid": "^10.0.0",
     "feathers-memory": "^4.1.0",
     "mocha": "^10.8.2",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
