@@ -53,7 +53,7 @@
     "@feathersjs/feathers": "^5.0.31",
     "@types/debug": "^4.1.12",
     "@types/mocha": "^10.0.10",
-    "@types/node": "^22.10.1",
+    "@types/node": "^22.10.2",
     "mocha": "^11.0.1",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
